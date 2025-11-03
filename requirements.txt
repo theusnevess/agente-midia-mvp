@@ -1,0 +1,13 @@
+# São as nossas bibliotecas principais de agentes e orquestração
+crewai 
+crewai[tools]
+langgraph
+
+# Ferramenta que o Agente Transcritor usará
+youtube-transcript-api
+
+# Ferramenta que o Agente Editor usará para cortar o vídeo
+moviepy
+
+# Gerencia as chaves de API
+python-dotenv
